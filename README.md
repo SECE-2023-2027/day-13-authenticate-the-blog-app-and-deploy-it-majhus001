@@ -1,2 +1,2 @@
 Website LinK:
-https://simple-blog-app-nine.vercel.app/
+https://blogapp-lilac.vercel.app/
